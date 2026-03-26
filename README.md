@@ -1,4 +1,4 @@
-# Methylocker
+# MethyLocker
 ### Visualize methylaytion ratio across groups and investigate the statistically significant methylation sites
 
 ### Weblink
@@ -12,5 +12,5 @@ S3  0.4	  0.5	  0.6	  GroupB
 S4  0.45	0.55	0.65  GroupB
 POS  100	  200	  300  GROUP
 ```
-#### Statistal testing 
+#### Statistical testing 
 Kruskal-Wallis (KW) test (a non-parametric method) will be applied
